@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+    background:   linear-gradient(45deg, #2196F3 30%, #21CBF3 90%);
+    justify-content: space-between;
+    
+    padding: 10px 80px;
+    height: 60px;
+    box-shadow: 5px 10px 8px  #888888;
+}
+.logo-nav{
+    font-size: 30px;
+    color : white;
+    
+}
